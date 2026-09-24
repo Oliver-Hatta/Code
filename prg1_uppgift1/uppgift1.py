@@ -1,0 +1,5 @@
+namn = input("vad heter du")
+ålder = input("hur gammal är du")
+längd = input("hur lång är du")
+favoritnummer = input("vad är ditt favoritnummer")
+print(namn, ålder, längd, favoritnummer)

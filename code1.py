@@ -6,4 +6,4 @@ print("hello" + name)
 
 purpose = input("what is my purpose?")
 
-print("i understand, my purpose is" + purpose)
+print("i understand, my purpose is " + purpose)
